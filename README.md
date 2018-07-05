@@ -1,0 +1,2 @@
+# Growly-Bot
+Discord Bot
